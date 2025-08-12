@@ -1,0 +1,8 @@
+{
+  "digital": "digital/digital.json",
+  "vocational": "vocational/vocational.json",
+  "personal": "personal/personal.json",
+  "soft": "soft/soft.json",
+  "creative": "creative/creative.json",
+  "business": "business/business.json"
+}

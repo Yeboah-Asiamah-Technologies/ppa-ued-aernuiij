@@ -1,0 +1,19 @@
+{
+  "mathematics": [
+    {
+      "id":"1",
+      "title": "Advance course",
+      "instructor": "Yeboah Asiamah",
+      "file": "jhs/jhs1.html",
+      "language": "Twi"
+    }
+  ],
+  "science": [],
+  "english": [],
+  "french": [],
+  "ghanaian language": [],
+  "computing": [],
+  "social studies": [],
+  "rme": [],
+  "physical education": []
+}

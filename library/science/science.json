@@ -1,0 +1,18 @@
+{
+  "mathematics": [
+    {
+      "id":"1",
+      "title": "Advance course",
+      "instructor": "Yeboah Asiamah",
+      "file": "science/science1.html",
+      "language": "Twi"
+    }
+  ],
+  "chemistry": [],
+  "physics": [],
+  "biology": [],
+  "general agriculture": [],
+  "food and nutrition": [],
+  "animal husbandry": [],
+  "crop husbandry": []
+}

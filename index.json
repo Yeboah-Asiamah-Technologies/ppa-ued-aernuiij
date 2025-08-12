@@ -1,0 +1,9 @@
+
+{
+  "live": "contents/live/live.json",
+  "socials":"contents/socials/socials.json",
+  "news":"contents/news/news.json",
+  "library":"contents/library/library.json",
+  "skills":"contents/skills/skills.json",
+  "notifications":"contents/notifications.json"
+}

@@ -1,0 +1,15 @@
+{
+  "literature": [
+    {
+      "id": "1",
+      "title": "Advance course",
+      "instructor": "Yeboah Asiamah",
+      "file": "arts/arts1.html",
+      "language": "Twi"
+    }
+  ],
+  "french": [],
+  "geography": [],
+  "government": [],
+  "history": []
+}

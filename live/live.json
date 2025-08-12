@@ -1,0 +1,20 @@
+
+[
+  {
+    "id":"live1",
+    "type":"video",
+    "title":"Core mathematics (Set Problem)",
+    "youtubeVideoUrl":"https://www.youtube.com/embed/yourvideoid",
+    "language":"English",
+    "instructor":"Juliana Sekyere"
+  },
+
+  {
+    "id":"live2",
+    "type":"video",
+    "title":"Organic Chemistry",
+    "youtubeVideoUrl":"https://www.youtube.com/embed/yourvideoid",
+    "language":"Twi",
+    "instructor":"Yeboah Asiamah"
+  }
+]

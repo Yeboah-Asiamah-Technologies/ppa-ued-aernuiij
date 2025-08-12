@@ -1,0 +1,8 @@
+{
+  "advance":"advance/advance.json",
+  "arts":"arts/arts.json",
+  "business":"business/business.json",
+  "exams":"exams/exams.json",
+  "science":"science/science.json",
+  "jhs":"jhs/jhs.json"
+}

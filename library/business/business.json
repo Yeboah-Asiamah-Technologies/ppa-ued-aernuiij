@@ -1,0 +1,14 @@
+{
+  "business management": [
+    {
+      "id": "1",
+      "title": "Advance course",
+      "instructor": "Yeboah Asiamah",
+      "file": "business/business1.html",
+      "language": "Twi"
+    }
+  ],
+  "cost accounting": [],
+  "economics": [],
+  "financial accounting": []
+}
