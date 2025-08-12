@@ -3,18 +3,18 @@
   {
     "id":"live1",
     "type":"video",
-    "title":"Core mathematics (Set Problem)",
-    "youtubeVideoUrl":"https://youtu.be/kqtD5dpn9C8?si=l2y9XuaAtETPKuqd",
+    "title":"Live coding",
+    "youtubeVideoUrl":"https://www.youtube.com/embed/kqtD5dpn9C8?si=lsv1DyVTSPOzuvNg",
     "language":"English",
-    "instructor":"Juliana Sekyere"
+    "instructor":"Code with Mosh"
   },
 
   {
     "id":"live2",
     "type":"video",
-    "title":"Organic Chemistry",
-    "youtubeVideoUrl":"https://youtu.be/kqtD5dpn9C8?si=l2y9XuaAtETPKuqd",
-    "language":"Twi",
-    "instructor":"Yeboah Asiamah"
+    "title":"Python Programming",
+    "youtubeVideoUrl":"https://www.youtube.com/embed/kqtD5dpn9C8?si=lsv1DyVTSPOzuvNg",
+    "language":"English",
+    "instructor":"Yeboah Asiamah Kwabena"
   }
 ]
