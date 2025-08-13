@@ -1,8 +1,23 @@
 [
   {
+    "id":"1",
     "title":"Personal Skills",
+    "instructor":"Kenneth Amponsah",
+    "language":"Twi",
+    "youtubeVideoUrl":"https://www.youtube.com/embed/AWGayyX9I6o?si=SPRB8Uwt6yimhR-T"
+  },
+  {
+    "id":"2",
+    "title":"Improve your Interpersonal Skills",
+    "instructor":"Lordina Eva",
+    "language":"English",
+    "youtubeVideoUrl":"https://www.youtube.com/embed/Ib09GqWP5rY?si=hsOKxfQuVeA70g4y"
+  },
+  {
+    "id":"3",
+    "title":"Be the Best of Yourself",
     "instructor":"Yeboah Asiamah",
     "language":"Twi",
-    "youtubeVideoUrl":"https://www.youtube.com/embed/kqtD5dpn9C8?si=lsv1DyVTSPOzuvNg"
+    "youtubeVideoUrl":"https://www.youtube.com/embed/viuT_wNBRbs?si=JU-5sSH9c561GIA4"
   }
 ]
