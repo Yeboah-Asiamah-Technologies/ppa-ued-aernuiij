@@ -2,13 +2,37 @@
   "business management": [
     {
       "id": "1",
-      "title": "Advance course",
-      "instructor": "Yeboah Asiamah",
+      "title": "Business Management",
+      "instructor": "Gifty",
       "file": "business/business1.html",
-      "language": "Twi"
+      "language": "English"
     }
   ],
-  "cost accounting": [],
-  "economics": [],
-  "financial accounting": []
+  "cost accounting": [
+     {
+      "id": "1",
+      "title": "Cost Accounting",
+      "instructor": "Peter",
+      "file": "business/business1.html",
+      "language": "English"
+    }
+  ],
+  "economics": [
+     {
+      "id": "1",
+      "title": "The art of saving",
+      "instructor": "Gifty",
+      "file": "business/business1.html",
+      "language": "English"
+    }
+  ],
+  "financial accounting": [
+     {
+      "id": "1",
+      "title": "Finance",
+      "instructor": "Patrick",
+      "file": "business/business1.html",
+      "language": "English"
+    }
+  ]
 }
