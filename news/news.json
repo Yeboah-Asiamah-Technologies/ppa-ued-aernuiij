@@ -1,31 +1,21 @@
 [
   {
     "id":"1",
-    "title":"About JulLearn Educational Center",
-    "youtubeVideoUrl":"https://www.youtube.com/embed/kqtD5dpn9C8?si=lsv1DyVTSPOzuvNg",
-    "description":"Explore our python course"
+    "title":"Vocational Skills",
+    "youtubeVideoUrl":"https://www.youtube.com/embed/HG8ByNstDi0?si=ghEXX33AZiklIyu-",
+    "description":"Learn about vocational skills to boost your income by 70%"
   },
   {
     "id":"2",
-    "title":"About JulLearn Educational Center",
-    "youtubeVideoUrl":"https://www.youtube.com/embed/kqtD5dpn9C8?si=lsv1DyVTSPOzuvNg",
-     "description":"Explore our python course"
+    "title":"Explore our latest video",
+    "youtubeVideoUrl":"https://www.youtube.com/embed/Tiy2LONr050?si=QXxXd92adC5eABgG",
+     "description":"Explore our course. This is part of our new videos for the month"
   },
+
+
   {
     "id":"3",
-    "title":"About JulLearn Educational Center",
-    "youtubeVideoUrl":"https://www.youtube.com/embed/kqtD5dpn9C8?si=lsv1DyVTSPOzuvNg",
-     "description":"Explore our python course"
-  },
-  {
-    "id":"4",
-    "title":"About JulLearn Educational Center",
-    "youtubeVideoUrl":"https://www.youtube.com/embed/kqtD5dpn9C8?si=lsv1DyVTSPOzuvNg",
-     "description":"Explore our python course"
-  },
-  {
-    "id":"5",
-    "title":"About JulLearn Educational Center",
+    "title":"Learn coding with us",
     "youtubeVideoUrl":"https://www.youtube.com/embed/kqtD5dpn9C8?si=lsv1DyVTSPOzuvNg",
      "description":"Explore our python course"
   }
