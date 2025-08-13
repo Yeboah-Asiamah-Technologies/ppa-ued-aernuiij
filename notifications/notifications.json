@@ -1,7 +1,19 @@
 [
   {
     "id":"1",
-    "title":"Notice",
-    "description":"explore"
+    "title":"Need for Teachers",
+    "description":"JulLearn Educational Center are in need of teachers. Call or message our CEO on 0591889842."
+  },
+  {
+    "id":"2",
+    "title":"Live class",
+    "description":"We will start our live class at 12:00pm. "
+  },
+  {
+    "id":"3",
+    "title":"Quick Notice",
+    "description":"Subscribe to our YouTube channel to support our work. Link at the Home Screen."
   }
+ 
+  
 ]
