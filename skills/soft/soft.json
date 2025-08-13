@@ -1,8 +1,23 @@
 [
   {
+    "id":"1",
     "title":"Soft Skills",
+    "instructor":"Yeboah Asiamah Kwabena",
+    "language":"Twi",
+    "youtubeVideoUrl":"https://www.youtube.com/embed/Tiy2LONr050?si=QXxXd92adC5eABgG"
+  },
+  {
+    "id":"2",
+    "title":"Improve your Communication skills",
+    "instructor":"Emmanuel David",
+    "language":"Twi",
+    "youtubeVideoUrl":"https://www.youtube.com/embed/pJ7RgUCEd5M?si=aS1ND6GaiTH8kc7V"
+  },
+  {
+    "id":"3",
+    "title":"What are Soft Skills",
     "instructor":"Yeboah Asiamah",
     "language":"Twi",
-    "youtubeVideoUrl":"https://www.youtube.com/embed/kqtD5dpn9C8?si=lsv1DyVTSPOzuvNg"
+    "youtubeVideoUrl":"https://www.youtube.com/embed/hZSARM4VaVs?si=vgCkLtDvgIdRiQSc"
   }
 ]
