@@ -1,8 +1,23 @@
 [
   {
-    "title":"Creative Skills",
-    "instructor":"Yeboah Asiamah",
+    "id":"1",
+    "title":"Creative Thinking",
+    "instructor":"Comfort Brown",
+    "language":"English",
+    "youtubeVideoUrl":"https://www.youtube.com/embed/auMu5-BSehc?si=obzotadkfp5q_SVb"
+  },
+   {
+     "id":"2",
+    "title":"Creative Skills for kids",
+    "instructor":"Juliana Elen",
+    "language":"English",
+    "youtubeVideoUrl":"https://www.youtube.com/embed/lk_RITEYQEI?si=UvRhSRASFycMdqA_"
+  },
+   {
+     "id":"3",
+    "title":"Easy and creative skills to learn",
+    "instructor":"Sampson Gyamfi",
     "language":"Twi",
-    "youtubeVideoUrl":"https://www.youtube.com/embed/kqtD5dpn9C8?si=lsv1DyVTSPOzuvNg"
+    "youtubeVideoUrl":"https://www.youtube.com/embed/SIb6_yGTZoQ?si=H8OUS1HeQOkuMcCo"
   }
 ]
