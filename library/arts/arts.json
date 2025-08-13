@@ -2,14 +2,46 @@
   "literature": [
     {
       "id": "1",
-      "title": "Advance course",
-      "instructor": "Yeboah Asiamah",
+      "title": "Mama is a Sunrise",
+      "instructor": "Vera Brown",
       "file": "arts/arts1.html",
-      "language": "Twi"
+      "language": "English"
     }
   ],
-  "french": [],
-  "geography": [],
-  "government": [],
-  "history": []
+  "french": [
+    {
+      "id": "1",
+      "title": "Greetings",
+      "instructor": "Michael Asamoah",
+      "file": "arts/arts1.html",
+      "language": "French"
+    }
+  ],
+  "geography": [
+    {
+      "id": "1",
+      "title": "Explore the map of Africa",
+      "instructor": "Stephen",
+      "file": "arts/arts1.html",
+      "language": "English"
+    }
+  ],
+  "government": [
+    {
+      "id": "1",
+      "title": "The Government",
+      "instructor": "Peter",
+      "file": "arts/arts1.html",
+      "language": "English"
+    }
+  ],
+  "history": [
+    {
+      "id": "1",
+      "title": "History of Africa",
+      "instructor": "Eze",
+      "file": "arts/arts1.html",
+      "language": "English"
+    }
+  ]
 }
