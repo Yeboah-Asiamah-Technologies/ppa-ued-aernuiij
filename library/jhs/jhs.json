@@ -2,18 +2,82 @@
   "mathematics": [
     {
       "id":"1",
-      "title": "Advance course",
+      "title": "Two Set Problem",
       "instructor": "Yeboah Asiamah",
       "file": "jhs/jhs1.html",
       "language": "Twi"
     }
   ],
-  "science": [],
-  "english": [],
-  "french": [],
-  "ghanaian language": [],
-  "computing": [],
-  "social studies": [],
-  "rme": [],
-  "physical education": []
+  "science": [
+     {
+      "id":"1",
+      "title": "The nervous system",
+      "instructor": "Sampson Gyamfi",
+      "file": "jhs/jhs1.html",
+      "language": "Twi"
+    }
+  ],
+  "english": [
+     {
+      "id":"1",
+      "title": "Letter Writing",
+      "instructor": "Peniel",
+      "file": "jhs/jhs1.html",
+      "language": "English"
+    }
+  ],
+  "french": [
+     {
+      "id":"1",
+      "title": "Greetings",
+      "instructor": "Eze",
+      "file": "jhs/jhs1.html",
+      "language": "French"
+    }
+  ],
+  "ghanaian language": [
+     {
+      "id":"1",
+      "title": "Sua Akenkan",
+      "instructor": "Yeboah Asiamah",
+      "file": "jhs/jhs1.html",
+      "language": "Twi"
+    }
+  ],
+  "computing": [
+     {
+      "id":"1",
+      "title": "Excel",
+      "instructor": "Yeboah Asiamah",
+      "file": "jhs/jhs1.html",
+      "language": "English"
+    }
+  ],
+  "social studies": [
+     {
+      "id":"1",
+      "title": "Chastity",
+      "instructor": "Yeboah Asiamah",
+      "file": "jhs/jhs1.html",
+      "language": "English"
+    }
+  ],
+  "rme": [
+     {
+      "id":"1",
+      "title": "Relious Studies",
+      "instructor": "Eze",
+      "file": "jhs/jhs1.html",
+      "language": "English"
+    }
+  ],
+  "physical education": [
+     {
+      "id":"1",
+      "title": "Training",
+      "instructor": "Bob",
+      "file": "jhs/jhs1.html",
+      "language": "Twi"
+    }
+  ]
 }
