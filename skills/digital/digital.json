@@ -1,9 +1,21 @@
 [
   {
     "id":"1",
-    "title":"Digital Skills",
-    "instructor":"Yeboah Asiamah",
+    "title":"What are Digital Skills",
+    "instructor":"Priscilla Owen",
+    "language":"English",
+    "youtubeVideoUrl":"https://www.youtube.com/embed/edCSAINyDYQ?si=vfwc307ExdsGRmrn"
+  },
+  "id":"2",
+    "title":"Digital Skills for success",
+    "instructor":"Yeboah Asiamah Kwabena",
+    "language":"English",
+    "youtubeVideoUrl":"https://www.youtube.com/embed/7TD398YNaHs?si=LMdZXJsNS2wfHKez"
+  },
+  "id":"3",
+    "title":"Learn a Digital Skill with your Phone",
+    "instructor":"Abigail Asare",
     "language":"Twi",
-    "youtubeVideoUrl":"https://www.youtube.com/embed/kqtD5dpn9C8?si=lsv1DyVTSPOzuvNg"
+    "youtubeVideoUrl":"https://www.youtube.com/embed/_qHEYqDVzIU?si=Xn8DCJMJ18MbBTIF"
   }
 ]
