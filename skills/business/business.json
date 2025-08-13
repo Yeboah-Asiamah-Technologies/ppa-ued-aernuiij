@@ -4,6 +4,20 @@
     "title":"Business Skills",
     "instructor":"Yeboah Asiamah",
     "language":"Twi",
-    "youtubeVideoUrl":"https://www.youtube.com/embed/kqtD5dpn9C8?si=lsv1DyVTSPOzuvNg"
+    "youtubeVideoUrl":"https://www.youtube.com/embed/lULfzb1jiaM?si=Q_oWyMiwoMM0sFB9&amp;controls=0"
+  },
+  {
+    "id":"2",
+    "title":"Learning the art of saving",
+    "instructor":"Amankwaa Theophilus",
+    "language":"English",
+    "youtubeVideoUrl":"https://www.youtube.com/embed/gwF199mCjeM?si=zV2Tq36nc8HRmJP-&amp;controls=0"
+  },
+  {
+    "id":"3",
+    "title":"Starting a business in Africa",
+    "instructor":"Juliana Sekyere",
+    "language":"Twi",
+    "youtubeVideoUrl":"https://www.youtube.com/embed/bvWKFHT-ed8?si=Q_P0Wh7hJ9bMZrup&amp;controls=0"
   }
 ]
