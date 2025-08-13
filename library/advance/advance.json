@@ -1,6 +1,14 @@
 [
   {
-    "title":"Advance course",
+    "id":"1",
+    "title":"Solving Complex Mathematics",
+    "instructor":"Yeboah Asiamah",
+    "file":"advance/advance1.html",
+    "language":"English"
+  },
+  {
+    "id":"2",
+    "title":"Building the Engine of an Aeroplane",
     "instructor":"Yeboah Asiamah",
     "file":"advance/advance1.html",
     "language":"Twi"
