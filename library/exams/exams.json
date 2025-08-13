@@ -2,13 +2,37 @@
   "bece": [
     {
       "id": "1",
-      "title": "Advance course",
+      "title": "Questions on BECE",
       "instructor": "Yeboah Asiamah",
       "file": "exams/exams1.html",
-      "language": "Twi"
+      "language": "English"
     }
   ],
-  "wassce": [],
-  "sat": [],
-  "english": []
+  "wassce": [
+     {
+      "id": "1",
+      "title": "Questions on WASSCE",
+      "instructor": "Kofi Adoma",
+      "file": "exams/exams1.html",
+      "language": "English"
+    }
+  ],
+  "sat": [
+     {
+      "id": "1",
+      "title": "Questions on SAT",
+      "instructor": "Yeboah Asiamah",
+      "file": "exams/exams1.html",
+      "language": "English"
+    }
+  ],
+  "english": [
+     {
+      "id": "1",
+      "title": "Questions on English Proficiency Exams",
+      "instructor": "Yeboah Asiamah",
+      "file": "exams/exams1.html",
+      "language": "English"
+    }
+  ]
 }
