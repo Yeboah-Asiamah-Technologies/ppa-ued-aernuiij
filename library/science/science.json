@@ -2,17 +2,73 @@
   "mathematics": [
     {
       "id":"1",
-      "title": "Advance course",
+      "title": "Three Set Problem",
       "instructor": "Yeboah Asiamah",
       "file": "science/science1.html",
-      "language": "Twi"
+      "language": "English"
     }
   ],
-  "chemistry": [],
-  "physics": [],
-  "biology": [],
-  "general agriculture": [],
-  "food and nutrition": [],
-  "animal husbandry": [],
-  "crop husbandry": []
+  "chemistry": [
+     {
+      "id":"1",
+      "title": "Organic Chemistry",
+      "instructor": "Danny",
+      "file": "jhs/jhs1.html",
+      "language": "English"
+    }
+  ],
+  "physics": [
+     {
+      "id":"1",
+      "title": "Scalar and Vector Quantities",
+      "instructor": "Yeboah Asiamah",
+      "file": "jhs/jhs1.html",
+      "language": "English"
+    }
+  ],
+  "biology": [
+     {
+      "id":"1",
+      "title": "The Nervous System",
+      "instructor": "Sir Gabriel",
+      "file": "jhs/jhs1.html",
+      "language": "English"
+    }
+  ],
+  "general agriculture": [
+     {
+      "id":"1",
+      "title": "Agriculture",
+      "instructor": "Frederick Kwakye",
+      "file": "jhs/jhs1.html",
+      "language": "English"
+    }
+  ],
+  "food and nutrition": [
+     {
+      "id":"1",
+      "title": "Food",
+      "instructor": "Priscilla",
+      "file": "jhs/jhs1.html",
+      "language": "English"
+    }
+  ],
+  "animal husbandry": [
+     {
+      "id":"1",
+      "title": "Animal Husbandry",
+      "instructor": "Nancy Ntim",
+      "file": "jhs/jhs1.html",
+      "language": "English"
+    }
+  ],
+  "crop husbandry": [
+     {
+      "id":"1",
+      "title": "Crop Husbandry",
+      "instructor": "Nancy Ntim",
+      "file": "jhs/jhs1.html",
+      "language": "English"
+    }
+  ]
 }
