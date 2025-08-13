@@ -3,18 +3,18 @@
   {
     "id":"live1",
     "type":"video",
-    "title":"Live coding",
-    "youtubeVideoUrl":"https://www.youtube.com/embed/kqtD5dpn9C8?si=lsv1DyVTSPOzuvNg",
+    "title":"How to get a job with little to no experience",
+    "youtubeVideoUrl":"https://www.youtube.com/embed/y1fB7ztc1dQ?si=Vc8lyCMih_Y_JGKn",
     "language":"English",
-    "instructor":"Code with Mosh"
+    "instructor":"Yeboah Asiamah Kwabena"
   },
 
   {
     "id":"live2",
     "type":"video",
-    "title":"Python Programming",
-    "youtubeVideoUrl":"https://www.youtube.com/embed/kqtD5dpn9C8?si=lsv1DyVTSPOzuvNg",
+    "title":"Writing formal letters",
+    "youtubeVideoUrl":"https://www.youtube.com/embed/mJBQ6khXaPI?si=ec-yw3fzSm5iOUpa",
     "language":"English",
-    "instructor":"Yeboah Asiamah Kwabena"
+    "instructor":"Mary Annor"
   }
 ]
