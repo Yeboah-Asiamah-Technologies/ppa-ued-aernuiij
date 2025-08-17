@@ -3,18 +3,11 @@
   {
     "id":"live1",
     "type":"video",
-    "title":"How to get a job with little to no experience",
-    "youtubeVideoUrl":"https://www.youtube.com/embed/y1fB7ztc1dQ?si=Vc8lyCMih_Y_JGKn",
+    "title":"Arsenal vs Manchester United",
+    "youtubeVideoUrl":"https://www.youtube.com/embed/rgra4K4ax9c?si=XAdXDwfciYD4WMQc",
     "language":"English",
     "instructor":"Yeboah Asiamah Kwabena"
-  },
-
-  {
-    "id":"live2",
-    "type":"video",
-    "title":"Writing formal letters",
-    "youtubeVideoUrl":"https://www.youtube.com/embed/mJBQ6khXaPI?si=ec-yw3fzSm5iOUpa",
-    "language":"English",
-    "instructor":"Mary Annor"
   }
+
+ 
 ]
